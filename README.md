@@ -1,5 +1,5 @@
-# example
-
+# Simple example 
+This is a sample project in Vue.js to have shared store, where you are able to share data between two components.
 ## Project setup
 ```
 npm install
